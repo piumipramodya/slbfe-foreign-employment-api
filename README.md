@@ -31,7 +31,7 @@ This system modernizes SLBFE services by enabling:
 
 ## 📋 API Documentation
 
-All APIs are documented with code snippets and Postman results in the [`docs/`](./docs/) folder.
+Detailed API documentation is available in the project report: [`29366_CS406.3_SLBFE_API_Report.pdf`](./docs/29366_CS406.3_SLBFE_API_Report.pdf).
 
 **Key Endpoints include:**
 - `POST /citizens` → Member Registration
